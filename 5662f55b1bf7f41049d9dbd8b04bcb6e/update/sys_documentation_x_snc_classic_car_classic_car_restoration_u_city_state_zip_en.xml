@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_city_state_zip" label="City, State, Zip code" language="en" table="x_snc_classic_car_classic_car_restoration">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_city_state_zip</element>
+            <help/>
+            <hint/>
+            <label>City, State, Zip code</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_restoration</name>
+            <plural>City, State, Zip codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-19 18:43:21</sys_created_on>
+            <sys_id>9fb8a2631b3b381049d9dbd8b04bcbb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>City, State, Zip code</sys_name>
+            <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_classic_car_classic_car_restoration_u_city_state_zip_en</sys_update_name>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-19 18:43:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

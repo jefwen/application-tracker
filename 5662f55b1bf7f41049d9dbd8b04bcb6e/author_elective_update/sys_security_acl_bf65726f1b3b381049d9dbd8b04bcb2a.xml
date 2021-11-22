@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_classic_car_makes</description>
+        <name>x_snc_classic_car_makes</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+        <sys_created_on>2021-11-19 19:38:49</sys_created_on>
+        <sys_id>bf65726f1b3b381049d9dbd8b04bcb2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_classic_car_makes</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_update_name>sys_security_acl_bf65726f1b3b381049d9dbd8b04bcb2a</sys_update_name>
+        <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+        <sys_updated_on>2021-11-19 19:38:49</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</application>
+        <file_path/>
+        <instance_id>ee0431f51b407010c8432f8dee4bcb87</instance_id>
+        <instance_name>empjefwentecobeast</instance_name>
+        <name>sys_security_acl_bf65726f1b3b381049d9dbd8b04bcb2a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_snc_classic_car_makes</description><name>x_snc_classic_car_makes</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>jeffery.wentworth@snc</sys_created_by><sys_created_on>2021-11-19 19:38:49</sys_created_on><sys_id>bf65726f1b3b381049d9dbd8b04bcb2a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_classic_car_makes</sys_name><sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package><sys_policy/><sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope><sys_update_name>sys_security_acl_bf65726f1b3b381049d9dbd8b04bcb2a</sys_update_name><sys_updated_by>jeffery.wentworth@snc</sys_updated_by><sys_updated_on>2021-11-19 19:38:49</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-809572239</payload_hash>
+        <record_name>x_snc_classic_car_makes</record_name>
+        <reverted_from/>
+        <source>5662f55b1bf7f41049d9dbd8b04bcb70</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+        <sys_created_on>2021-11-19 19:38:49</sys_created_on>
+        <sys_id>fb65726f1b3b381049d9dbd8b04bcb2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d39b5660c0000001</sys_recorded_at>
+        <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+        <sys_updated_on>2021-11-19 19:38:49</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>3765726f593b3810bafa9c7f2a7e8c2e</update_guid>
+        <update_guid_history>3765726f593b3810bafa9c7f2a7e8c2e:-809572239</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+        <sys_created_on>2021-11-19 19:40:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>fde98da5e4a042fcae6ccdab60e2bf64</sys_id>
+        <sys_metadata>bf65726f1b3b381049d9dbd8b04bcb2a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_classic_car_makes</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_parent display_value="">3f65726f1b3b381049d9dbd8b04bcb54</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_scope_delete display_value="">44c2fd98fe9d454293dcf256de782d64</sys_scope_delete>
+        <sys_update_name>sys_security_acl_bf65726f1b3b381049d9dbd8b04bcb2a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_bf65726f1b3b381049d9dbd8b04bcb2a">fb65726f1b3b381049d9dbd8b04bcb2e</sys_update_version>
+        <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+        <sys_updated_on>2021-11-19 19:40:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

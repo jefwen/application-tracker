@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label=" Classic Car Restoration" max_length="40" name="x_snc_classic_car_classic_car_restoration" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Body Style" max_length="40" name="u_body_style" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="City, State, Zip code" mandatory="true" max_length="40" name="u_city_state_zip" type="string"/>
+        <element label="Completed work" max_length="65536" name="u_completed_work" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="First name" mandatory="true" max_length="40" name="u_first_name" type="string"/>
+        <element label="Home phone" max_length="40" name="u_home_phone" type="ph_number"/>
+        <element label="New HTML" max_length="65536" name="u_html_12" type="html"/>
+        <element label="Itemized work order" max_length="65536" name="u_itemized_work_order" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Last name" mandatory="true" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Make" mandatory="true" max_length="40" name="u_make" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Audi" sequence="0" value="audi"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="BMW" sequence="1" value="bmw"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Buick" sequence="2" value="buick"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Cadillac" sequence="3" value="cadillac"/>
+                <element inactive_on_update="false" label="Chevrolet" sequence="4" value="chevrolet"/>
+                <element inactive_on_update="false" label="Chrysler" sequence="5" value="chrysler"/>
+                <element inactive_on_update="false" label="Dodge" sequence="6" value="dodge"/>
+                <element inactive_on_update="false" label="Ferrari" sequence="7" value="ferrari"/>
+                <element inactive_on_update="false" label="Fiat" sequence="8" value="fiat"/>
+                <element inactive_on_update="false" label="Ford" sequence="9" value="ford"/>
+                <element inactive_on_update="false" label="GMC" sequence="10" value="gmc"/>
+                <element inactive_on_update="false" label="Honda" sequence="11" value="honda"/>
+                <element inactive_on_update="false" label="Jaguar" sequence="12" value="jaguar"/>
+                <element inactive_on_update="false" label="Jeep" sequence="13" value="jeep"/>
+                <element inactive_on_update="false" label="Lamborghini" sequence="14" value="lamborghini"/>
+                <element inactive_on_update="false" label="Land Rover" sequence="15" value="land rover"/>
+                <element inactive_on_update="false" label="Lincoln" sequence="16" value="lincoln"/>
+                <element inactive_on_update="false" label="Lotus" sequence="17" value="lotus"/>
+                <element inactive_on_update="false" label="Maserati" sequence="18" value="maserati"/>
+                <element inactive_on_update="false" label="Maybach" sequence="19" value="maybach"/>
+                <element inactive_on_update="false" label="Mercedes" sequence="20" value="mercedes"/>
+                <element inactive_on_update="false" label="Mini" sequence="21" value="mini"/>
+                <element inactive_on_update="false" label="Opel" sequence="22" value="opel"/>
+                <element inactive_on_update="false" label="Pontiac" sequence="23" value="pontiac"/>
+                <element inactive_on_update="false" label="Porsche" sequence="24" value="porsche"/>
+                <element inactive_on_update="false" label="Ram" sequence="25" value="ram"/>
+                <element inactive_on_update="false" label="Rolls-Royce" sequence="26" value="rolls-royce"/>
+                <element inactive_on_update="false" label="Subaru" sequence="27" value="subaru"/>
+                <element inactive_on_update="false" label="Toyota" sequence="28" value="toyota"/>
+                <element inactive_on_update="false" label="Volkswagen" sequence="29" value="volkswagen"/>
+                <element inactive_on_update="false" label="Volvo" sequence="30" value="volvo"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Model" mandatory="true" max_length="40" name="u_model" type="string"/>
+        <element label="Cell phone" mandatory="true" max_length="40" name="u_phone_number" type="ph_number"/>
+        <element attributes="edge_encryption_enabled=true" label="Street address" mandatory="true" max_length="40" name="u_street_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Today's date" max_length="40" name="u_todays_date" read_only="true" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Trim" max_length="40" name="u_trim" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Year" mandatory="true" max_length="40" name="u_year" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Year" mandatory="true" max_length="40" name="year" type="string"/>
+    </element>
+</database>
