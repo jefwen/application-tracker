@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_rear_brake_pad_options" table="x_snc_classic_car_classic_car_parts" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_rear_brake_pad_options</element>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 22:43:07</sys_created_on>
+            <sys_id>509fc1191b448110c024a601604bcb69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_rear_brake_pad_options</sys_name>
+            <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+            <sys_update_name>sys_choice_x_snc_classic_car_classic_car_parts_u_rear_brake_pad_options</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 22:43:07</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rear_brake_pad_options</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bendix</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 22:43:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>189fc1191b448110c024a601604bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 22:43:07</sys_updated_on>
+            <value>bendix</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rear_brake_pad_options</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brembo</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 22:43:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>689fc1191b448110c024a601604bcb6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 22:43:07</sys_updated_on>
+            <value>brembo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rear_brake_pad_options</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Power Stop</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 22:43:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac9fc1191b448110c024a601604bcb6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 22:43:07</sys_updated_on>
+            <value>power stop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rear_brake_pad_options</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wagner</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 22:43:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e09fc1191b448110c024a601604bcb73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 22:43:07</sys_updated_on>
+            <value>wagner</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_spark_plug_options" label="Spark plug optoins" language="en" table="x_snc_classic_car_classic_car_parts">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_spark_plug_options</element>
+            <help/>
+            <hint/>
+            <label>Spark plug optoins</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <plural>Spark plug optoins</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 22:47:57</sys_created_on>
+            <sys_id>9fa051591b448110c024a601604bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Spark plug optoins</sys_name>
+            <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_classic_car_classic_car_parts_u_spark_plug_options_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 22:47:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

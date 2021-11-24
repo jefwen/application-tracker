@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_transmission_type" table="x_snc_classic_car_classic_car_parts" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_transmission_type</element>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 21:00:07</sys_created_on>
+            <sys_id>73f730951b048110c024a601604bcbac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_transmission_type</sys_name>
+            <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+            <sys_update_name>sys_choice_x_snc_classic_car_classic_car_parts_u_transmission_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 21:00:07</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_transmission_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manual 3 speed</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 21:00:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3bf730951b048110c024a601604bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 21:00:07</sys_updated_on>
+            <value>manual 3 speed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_transmission_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manual 4 speed</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 21:00:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33f730951b048110c024a601604bcbaf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 21:00:07</sys_updated_on>
+            <value>manual 4 speed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_transmission_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manual 5 speed</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 21:00:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77f730951b048110c024a601604bcbb2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 21:00:07</sys_updated_on>
+            <value>manual 5 speed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_transmission_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Automatic 3 speed</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 21:00:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bbf730951b048110c024a601604bcbb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 21:00:07</sys_updated_on>
+            <value>automatic 3 speed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_transmission_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Automatic 4 speed</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 21:00:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fff730951b048110c024a601604bcbb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 21:00:07</sys_updated_on>
+            <value>automatic 4 speed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_transmission_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Automatic 5 speed</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 21:00:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fbf730951b048110c024a601604bcbc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 21:00:07</sys_updated_on>
+            <value>automatic 5 speed</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

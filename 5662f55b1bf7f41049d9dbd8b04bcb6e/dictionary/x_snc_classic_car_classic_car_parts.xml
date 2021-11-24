@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_snc_classic_car_classic_car_restoration" label="Classic Car Parts" max_length="40" name="x_snc_classic_car_classic_car_parts" type="collection">
+        <element label="Air filter" max_length="40" name="u_air_filter" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_10" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_11" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_12" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_13" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_14" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_7" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_8" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_9" type="boolean"/>
+        <element label="Carburetor rebuild kit" max_length="40" name="u_carburetor_rebuild_kit" type="boolean"/>
+        <element label="Engine oil" max_length="40" name="u_engine_oil" type="boolean"/>
+        <element label="Front brake pads" max_length="40" name="u_front_brake_pads" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Front brake pads options" max_length="40" name="u_front_brake_pad_options" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Bendix" sequence="0" value="bendix"/>
+                <element inactive_on_update="false" label="Brembo" sequence="1" value="brembo"/>
+                <element inactive_on_update="false" label="Power Stop" sequence="2" value="power stop"/>
+                <element inactive_on_update="false" label="Wagner" sequence="3" value="wagner"/>
+            </choice>
+        </element>
+        <element label="Front brake rotors\drums" max_length="40" name="u_front_brake_rotors_drums" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Engine size" max_length="40" name="u_motor_size" type="string">
+            <choice>
+                <element inactive_on_update="false" label="4 cylinder" sequence="0" value="4 cylinder"/>
+                <element inactive_on_update="false" label="5 cylinder" sequence="1" value="5 cylinder"/>
+                <element inactive_on_update="false" label="6 cylinder" sequence="2" value="6 cylinder"/>
+                <element inactive_on_update="false" label="8 cylinder" sequence="3" value="8 cylinder"/>
+            </choice>
+        </element>
+        <element label="Rear brake pads" max_length="40" name="u_rear_brake_pads" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Rear brake pad options" max_length="40" name="u_rear_brake_pad_options" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Bendix" sequence="0" value="bendix"/>
+                <element inactive_on_update="false" label="Brembo" sequence="1" value="brembo"/>
+                <element inactive_on_update="false" label="Power Stop" sequence="2" value="power stop"/>
+                <element inactive_on_update="false" label="Wagner" sequence="3" value="wagner"/>
+            </choice>
+        </element>
+        <element label="Rear brake rotors\drums" max_length="40" name="u_rear_brake_rotors_drums" type="boolean"/>
+        <element label="Rotor and points" max_length="40" name="u_rotor_points" type="boolean"/>
+        <element label="Spark plugs" max_length="40" name="u_spark_plugs" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Spark plug optoins" max_length="40" name="u_spark_plug_options" type="string">
+            <choice>
+                <element inactive_on_update="false" label="AC Delco" sequence="0" value="ac delco"/>
+                <element inactive_on_update="false" label="Champion" sequence="1" value="champion"/>
+                <element inactive_on_update="false" label="Motorcraft" sequence="2" value="motorcraft"/>
+                <element inactive_on_update="false" label="NGK" sequence="3" value="ngk"/>
+            </choice>
+        </element>
+        <element label="Spark plug wires" max_length="40" name="u_spark_plug_wires" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Spark plug wire options" max_length="40" name="u_spark_plug_wire_options" type="string">
+            <choice>
+                <element inactive_on_update="false" label="AC Delco" sequence="0" value="ac delco"/>
+                <element inactive_on_update="false" label="Motorcraft" sequence="1" value="motorcraft"/>
+                <element inactive_on_update="false" label="MSD" sequence="2" value="msd"/>
+                <element inactive_on_update="false" label="NGK" sequence="3" value="ngk"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Transmission type" max_length="40" name="u_transmission_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Manual 3 speed" sequence="0" value="manual 3 speed"/>
+                <element inactive_on_update="false" label="Manual 4 speed" sequence="1" value="manual 4 speed"/>
+                <element inactive_on_update="false" label="Manual 5 speed" sequence="2" value="manual 5 speed"/>
+                <element inactive_on_update="false" label="Automatic 3 speed" sequence="3" value="automatic 3 speed"/>
+                <element inactive_on_update="false" label="Automatic 4 speed" sequence="4" value="automatic 4 speed"/>
+                <element inactive_on_update="false" label="Automatic 5 speed" sequence="5" value="automatic 5 speed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="VIN number" mandatory="true" max_length="40" name="u_vin_number" type="string"/>
+    </element>
+</database>
