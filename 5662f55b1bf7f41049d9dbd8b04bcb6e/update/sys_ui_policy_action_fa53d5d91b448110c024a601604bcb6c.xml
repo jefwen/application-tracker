@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_spark_plug_wire_options</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-24 22:59:57</sys_created_on>
+        <sys_id>fa53d5d91b448110c024a601604bcb6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_spark_plug_wire_options</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_update_name>sys_ui_policy_action_fa53d5d91b448110c024a601604bcb6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-24 22:59:57</sys_updated_on>
+        <table>x_snc_classic_car_classic_car_parts</table>
+        <ui_policy display_value="Show/hide spark plug wire options">ba3355d91b448110c024a601604bcb94</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

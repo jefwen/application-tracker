@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Classic Car Restoration">a6a06ff41bc04110c024a601604bcba3</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+        <sys_created_on>2021-11-23 20:00:06</sys_created_on>
+        <sys_id>76a06ff41bc04110c024a601604bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Classic Car Restoration</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_76a06ff41bc04110c024a601604bcbab</sys_update_name>
+        <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+        <sys_updated_on>2021-11-23 20:00:06</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</application>
+        <file_path/>
+        <instance_id>ee0431f51b407010c8432f8dee4bcb87</instance_id>
+        <instance_name>empjefwentecobeast</instance_name>
+        <name>sc_cat_item_catalog_76a06ff41bc04110c024a601604bcbab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Classic Car Restoration">a6a06ff41bc04110c024a601604bcba3</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>jeffery.wentworth@snc</sys_created_by><sys_created_on>2021-11-23 20:00:06</sys_created_on><sys_id>76a06ff41bc04110c024a601604bcbab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Classic Car Restoration</sys_name><sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package><sys_policy/><sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope><sys_update_name>sc_cat_item_catalog_76a06ff41bc04110c024a601604bcbab</sys_update_name><sys_updated_by>jeffery.wentworth@snc</sys_updated_by><sys_updated_on>2021-11-23 20:00:06</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>2060597629</payload_hash>
+        <record_name>Service Catalog.Classic Car Restoration</record_name>
+        <reverted_from/>
+        <source>765d7ab81b004110c024a601604bcbd1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+        <sys_created_on>2021-11-23 20:00:06</sys_created_on>
+        <sys_id>36a06b381bc04110c024a601604bcbd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d4e6252560000001</sys_recorded_at>
+        <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+        <sys_updated_on>2021-11-23 20:00:06</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>7ea06b3823c04110078a8169356c9fd3</update_guid>
+        <update_guid_history>7ea06b3823c04110078a8169356c9fd3:2060597629</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Classic Car Restoration">a03963301b044110c024a601604bcb00</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+        <sys_created_on>2021-11-23 20:37:21</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>aa60f87185c94c7792352e6dd87d7921</sys_id>
+        <sys_metadata>76a06ff41bc04110c024a601604bcbab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Classic Car Restoration</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_parent display_value="">a6a06ff41bc04110c024a601604bcba3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_scope_delete display_value="">44c2fd98fe9d454293dcf256de782d64</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_76a06ff41bc04110c024a601604bcbab</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_76a06ff41bc04110c024a601604bcbab">36a06b381bc04110c024a601604bcbd4</sys_update_version>
+        <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+        <sys_updated_on>2021-11-23 20:37:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

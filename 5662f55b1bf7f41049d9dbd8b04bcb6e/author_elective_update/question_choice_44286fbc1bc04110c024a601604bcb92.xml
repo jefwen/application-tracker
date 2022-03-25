@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>17</order>
+        <published_ref display_value="Lincoln">1fa0ab381bc04110c024a601604bcb58</published_ref>
+        <question display_value="What make is the vehicle?">8c286fbc1bc04110c024a601604bcb76</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+        <sys_created_on>2021-11-23 20:32:41</sys_created_on>
+        <sys_id>44286fbc1bc04110c024a601604bcb92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lincoln</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_update_name>question_choice_44286fbc1bc04110c024a601604bcb92</sys_update_name>
+        <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+        <sys_updated_on>2021-11-23 20:32:41</sys_updated_on>
+        <text>Lincoln</text>
+        <value>lincoln</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=44286fbc1bc04110c024a601604bcb92"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</application>
+        <file_path/>
+        <instance_id>ee0431f51b407010c8432f8dee4bcb87</instance_id>
+        <instance_name>empjefwentecobeast</instance_name>
+        <name>question_choice_44286fbc1bc04110c024a601604bcb92</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>17</order><published_ref display_value="Lincoln">1fa0ab381bc04110c024a601604bcb58</published_ref><question display_value="What make is the vehicle?">8c286fbc1bc04110c024a601604bcb76</question><sys_class_name>question_choice</sys_class_name><sys_created_by>jeffery.wentworth@snc</sys_created_by><sys_created_on>2021-11-23 20:32:41</sys_created_on><sys_id>44286fbc1bc04110c024a601604bcb92</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Lincoln</sys_name><sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package><sys_policy/><sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope><sys_update_name>question_choice_44286fbc1bc04110c024a601604bcb92</sys_update_name><sys_updated_by>jeffery.wentworth@snc</sys_updated_by><sys_updated_on>2021-11-23 20:32:41</sys_updated_on><text>Lincoln</text><value>lincoln</value></question_choice><fx_price action="delete_multiple" query="id=44286fbc1bc04110c024a601604bcb92"/></record_update>]]></payload>
+        <payload_hash>-1423801712</payload_hash>
+        <record_name>Lincoln</record_name>
+        <reverted_from/>
+        <source>765d7ab81b004110c024a601604bcbd1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+        <sys_created_on>2021-11-23 20:32:41</sys_created_on>
+        <sys_id>0c286fbc1bc04110c024a601604bcb94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d4e8029780000001</sys_recorded_at>
+        <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+        <sys_updated_on>2021-11-23 20:32:41</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>80286fbce3c041101d567b5bdc77a794</update_guid>
+        <update_guid_history>80286fbce3c041101d567b5bdc77a794:-1423801712</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Lincoln">1248a3fc1bc04110c024a601604bcb98</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+        <sys_created_on>2021-11-23 20:33:23</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>48e7731fb240439eb62ae4d3bb01a8c1</sys_id>
+        <sys_metadata>44286fbc1bc04110c024a601604bcb92</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lincoln</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_scope_delete display_value="">44c2fd98fe9d454293dcf256de782d64</sys_scope_delete>
+        <sys_update_name>question_choice_44286fbc1bc04110c024a601604bcb92</sys_update_name>
+        <sys_update_version display_value="question_choice_44286fbc1bc04110c024a601604bcb92">0c286fbc1bc04110c024a601604bcb94</sys_update_version>
+        <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+        <sys_updated_on>2021-11-23 20:33:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

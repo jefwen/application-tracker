@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_trim" table="x_snc_classic_car_classic_car_restoration" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_trim</element>
+            <name>x_snc_classic_car_classic_car_restoration</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-19 22:47:20</sys_created_on>
+            <sys_id>d9902f6f1bbb381049d9dbd8b04bcb0b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_trim</sys_name>
+            <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+            <sys_update_name>sys_choice_x_snc_classic_car_classic_car_restoration_u_trim</sys_update_name>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-19 22:47:20</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_trim</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Choice 1</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_restoration</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-19 22:47:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91902f6f1bbb381049d9dbd8b04bcb0b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-19 23:57:41</sys_updated_on>
+            <value>Choice 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_trim</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Choice 2</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_restoration</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-19 22:47:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19902f6f1bbb381049d9dbd8b04bcb0f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-19 23:57:41</sys_updated_on>
+            <value>Choice 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_trim</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Choice 3</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_restoration</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-19 22:47:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d902f6f1bbb381049d9dbd8b04bcb12</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-19 23:57:41</sys_updated_on>
+            <value>Choice 3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

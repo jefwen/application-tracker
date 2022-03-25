@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_engine_size" table="x_snc_classic_car_classic_car_parts" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_engine_size</element>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 23:39:59</sys_created_on>
+            <sys_id>a99cd9d11b848110c024a601604bcb2d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_engine_size</sys_name>
+            <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+            <sys_update_name>sys_choice_x_snc_classic_car_classic_car_parts_u_engine_size</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 23:39:59</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_engine_size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 cylinder</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 23:39:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>619cd9d11b848110c024a601604bcb2d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 23:39:59</sys_updated_on>
+            <value>3 cylinder</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_engine_size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 cylinder</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 23:39:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>699cd9d11b848110c024a601604bcb30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 23:39:59</sys_updated_on>
+            <value>4 cylinder</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_engine_size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 cylinder</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 23:39:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad9cd9d11b848110c024a601604bcb33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 23:39:59</sys_updated_on>
+            <value>5 cylinder</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_engine_size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6 cylinder</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 23:39:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e19cd9d11b848110c024a601604bcb37</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 23:39:59</sys_updated_on>
+            <value>6 cylinder</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_engine_size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>8 cylinder</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 23:39:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>299cd9d11b848110c024a601604bcb3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 23:39:59</sys_updated_on>
+            <value>8 cylinder</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_engine_size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 cylinder diesel</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 23:39:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d9cd9d11b848110c024a601604bcb3d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 23:39:59</sys_updated_on>
+            <value>4 cylinder diesel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_engine_size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6 cylinder diesel</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 23:39:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a19cd9d11b848110c024a601604bcb41</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 23:39:59</sys_updated_on>
+            <value>6 cylinder diesel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_engine_size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>8 cylinder diesal</label>
+            <language>en</language>
+            <name>x_snc_classic_car_classic_car_parts</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 23:39:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e59cd9d11b848110c024a601604bcb44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 23:39:59</sys_updated_on>
+            <value>8 cylinder diesal</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

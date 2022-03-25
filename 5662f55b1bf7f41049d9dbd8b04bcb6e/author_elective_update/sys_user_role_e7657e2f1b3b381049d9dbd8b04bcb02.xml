@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>User who has itil_admin to the Classic Car Restoration application.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_classic_car.office_executive</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>office_executive</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+        <sys_created_on>2021-11-19 19:38:48</sys_created_on>
+        <sys_id>e7657e2f1b3b381049d9dbd8b04bcb02</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_snc_classic_car.office_executive</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_update_name>sys_user_role_e7657e2f1b3b381049d9dbd8b04bcb02</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 18:07:49</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</application>
+        <file_path/>
+        <instance_id>ee0431f51b407010c8432f8dee4bcb87</instance_id>
+        <instance_name>empjefwentecobeast</instance_name>
+        <name>sys_user_role_e7657e2f1b3b381049d9dbd8b04bcb02</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>User who has itil_admin to the Classic Car Restoration application.</description><elevated_privilege>false</elevated_privilege><encryption_context/><grantable>true</grantable><includes_roles/><name>x_snc_classic_car.office_executive</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>office_executive</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>jeffery.wentworth@snc</sys_created_by><sys_created_on>2021-11-19 19:38:48</sys_created_on><sys_id>e7657e2f1b3b381049d9dbd8b04bcb02</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_snc_classic_car.office_executive</sys_name><sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package><sys_policy/><sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope><sys_update_name>sys_user_role_e7657e2f1b3b381049d9dbd8b04bcb02</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-22 18:07:49</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-412153297</payload_hash>
+        <record_name>x_snc_classic_car.office_executive</record_name>
+        <reverted_from/>
+        <source>5662f55b1bf7f41049d9dbd8b04bcb70</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 18:07:49</sys_created_on>
+        <sys_id>946d7de81b84c150c024a601604bcb16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d48d52c910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 18:07:49</sys_updated_on>
+        <type>Role</type>
+        <update_guid>dc6d7de84d84c150395884917ed62315</update_guid>
+        <update_guid_history>dc6d7de84d84c150395884917ed62315:-412153297,d25775a43484c150f65a9d55b548f816:465650622,63657e2fb53b3810f986f6ae8fcc0907:-420287778</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_classic_car.office_executive">4d258a601b04c91049d9dbd8b04bcb15</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-22 18:41:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>098458dbe1b14a4881f0057aac2d5509</sys_id>
+        <sys_metadata>e7657e2f1b3b381049d9dbd8b04bcb02</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_classic_car.office_executive</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_scope_delete display_value="">44c2fd98fe9d454293dcf256de782d64</sys_scope_delete>
+        <sys_update_name>sys_user_role_e7657e2f1b3b381049d9dbd8b04bcb02</sys_update_name>
+        <sys_update_version display_value="sys_user_role_e7657e2f1b3b381049d9dbd8b04bcb02">946d7de81b84c150c024a601604bcb16</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-22 18:41:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
