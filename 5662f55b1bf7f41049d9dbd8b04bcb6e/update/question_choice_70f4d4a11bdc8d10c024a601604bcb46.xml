@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>9</order>
+        <published_ref/>
+        <question display_value="Please provide the make of the vehicle:">24f4d4a11bdc8d10c024a601604bcb06</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 23:21:10</sys_created_on>
+        <sys_id>70f4d4a11bdc8d10c024a601604bcb46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Fiat</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_update_name>question_choice_70f4d4a11bdc8d10c024a601604bcb46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 23:21:10</sys_updated_on>
+        <text>Fiat</text>
+        <value>fiat</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=70f4d4a11bdc8d10c024a601604bcb46"/>
+</record_update>

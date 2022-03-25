@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>3</order>
+        <published_ref display_value="5 speed manual">49f418a11bdc8d10c024a601604bcb3d</published_ref>
+        <question display_value="Please select transmission type:">cdbdad791bdccd10c024a601604bcb53</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-09 00:27:26</sys_created_on>
+        <sys_id>4dbdad791bdccd10c024a601604bcb66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5 speed manual</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_update_name>question_choice_4dbdad791bdccd10c024a601604bcb66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-09 00:27:26</sys_updated_on>
+        <text>5 speed manual</text>
+        <value>5 speed manual</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=4dbdad791bdccd10c024a601604bcb66"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</application>
+        <file_path/>
+        <instance_id>ee0431f51b407010c8432f8dee4bcb87</instance_id>
+        <instance_name>empjefwentecobeast</instance_name>
+        <name>question_choice_4dbdad791bdccd10c024a601604bcb66</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>3</order><published_ref display_value="5 speed manual">49f418a11bdc8d10c024a601604bcb3d</published_ref><question display_value="Please select transmission type:">cdbdad791bdccd10c024a601604bcb53</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-09 00:27:26</sys_created_on><sys_id>4dbdad791bdccd10c024a601604bcb66</sys_id><sys_mod_count>0</sys_mod_count><sys_name>5 speed manual</sys_name><sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package><sys_policy/><sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope><sys_update_name>question_choice_4dbdad791bdccd10c024a601604bcb66</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-09 00:27:26</sys_updated_on><text>5 speed manual</text><value>5 speed manual</value></question_choice><fx_price action="delete_multiple" query="id=4dbdad791bdccd10c024a601604bcb66"/></record_update>]]></payload>
+        <payload_hash>562025649</payload_hash>
+        <record_name>5 speed manual</record_name>
+        <reverted_from/>
+        <source>6ebc4be41b840110c024a601604bcbff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-09 00:27:26</sys_created_on>
+        <sys_id>05bdad791bdccd10c024a601604bcb69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d9c9679380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-09 00:27:26</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>89bdad79d4dccd109e23d0af94622068</update_guid>
+        <update_guid_history>89bdad79d4dccd109e23d0af94622068:562025649</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="5 speed manual">7a4e2db91bdccd10c024a601604bcb03</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-09 00:30:01</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>25d1e5191c9648c8b4615b9125dbab04</sys_id>
+        <sys_metadata>4dbdad791bdccd10c024a601604bcb66</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5 speed manual</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_scope_delete display_value="">44c2fd98fe9d454293dcf256de782d64</sys_scope_delete>
+        <sys_update_name>question_choice_4dbdad791bdccd10c024a601604bcb66</sys_update_name>
+        <sys_update_version display_value="question_choice_4dbdad791bdccd10c024a601604bcb66">05bdad791bdccd10c024a601604bcb69</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-09 00:30:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

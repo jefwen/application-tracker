@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="DELETE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>true</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="Classic Car Parts">d8f45c611bdc8d10c024a601604bcba4</cat_item>
+        <cat_variable>IO:a4f494a11bdc8d10c024a601604bcbf8</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Format a catalog phone varaible</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+	if (isLoading || newValue == '') {
+		return;
+	}
+	g_form.hideErrorBox('u_phone_number');
+	var number = newValue.replace('+', '%2B');
+	$.get("/api/sn_hr_core/hr_rest_api/validatPhoneNumber?phoneNumber=" + number, function(answer) {
+		if (answer) {
+			var result = answer['result'];
+			var val = JSON.parse(result);
+			if (val.valid) {
+				if (newValue != val.number)
+					g_form.setValue('u_phone_number', val.number);
+			} else
+				g_form.showFieldMsg('u_phone_number', getMessage('Not a valid phone number'), 'error');			
+		}
+	});
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 23:04:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>49a751391b9ccd10c024a601604bcbc0</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Format a catalog phone varaible</sys_name>
+        <sys_overrides/>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_update_name>catalog_script_client_49a751391b9ccd10c024a601604bcbc0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 23:30:44</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</application>
+        <file_path/>
+        <instance_id>ee0431f51b407010c8432f8dee4bcb87</instance_id>
+        <instance_name>empjefwentecobeast</instance_name>
+        <name>catalog_script_client_49a751391b9ccd10c024a601604bcbc0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="catalog_script_client"&gt;&lt;catalog_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_catalog&gt;true&lt;/applies_catalog&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;applies_req_item&gt;false&lt;/applies_req_item&gt;&lt;applies_sc_task&gt;false&lt;/applies_sc_task&gt;&lt;applies_target_record&gt;true&lt;/applies_target_record&gt;&lt;applies_to&gt;item&lt;/applies_to&gt;&lt;cat_item display_value="Classic Car Parts"&gt;d8f45c611bdc8d10c024a601604bcba4&lt;/cat_item&gt;&lt;cat_variable&gt;IO:a4f494a11bdc8d10c024a601604bcbf8&lt;/cat_variable&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Format a catalog phone varaible&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+	if (isLoading || newValue == '') {
+		return;
+	}
+	g_form.hideErrorBox('u_phone_number');
+	var number = newValue.replace('+', '%2B');
+	$.get("/api/sn_hr_core/hr_rest_api/validatPhoneNumber?phoneNumber=" + number, function(answer) {
+		if (answer) {
+			var result = answer['result'];
+			var val = JSON.parse(result);
+			if (val.valid) {
+				if (newValue != val.number)
+					g_form.setValue('u_phone_number', val.number);
+			} else
+				g_form.showFieldMsg('u_phone_number', getMessage('Not a valid phone number'), 'error');			
+		}
+	});
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;catalog_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-12-08 23:04:06&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;49a751391b9ccd10c024a601604bcbc0&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;Format a catalog phone varaible&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car"&gt;5662f55b1bf7f41049d9dbd8b04bcb6e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value=" Classic Car Restoration"&gt;5662f55b1bf7f41049d9dbd8b04bcb6e&lt;/sys_scope&gt;&lt;sys_update_name&gt;catalog_script_client_49a751391b9ccd10c024a601604bcbc0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-12-08 23:30:44&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;variable_set/&gt;&lt;view/&gt;&lt;/catalog_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2033249123</payload_hash>
+        <record_name>Format a catalog phone varaible</record_name>
+        <reverted_from/>
+        <source>6ebc4be41b840110c024a601604bcbff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 23:30:44</sys_created_on>
+        <sys_id>eeb061fd1b9ccd10c024a601604bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d9c628eea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 23:30:44</sys_updated_on>
+        <type>Catalog Client Scripts</type>
+        <update_guid>2ab061fddd9ccd1046d94619774cedfd</update_guid>
+        <update_guid_history>2ab061fddd9ccd1046d94619774cedfd:2033249123,1990edbd009ccd102b6a1eda9f070ce4:-1198913130,bf0b99b95e9ccd10e5b437a99c5261d3:-634412383,93cad179ea9ccd10f8ee7a08d68755a9:1638590429,1caa9d79909ccd10a6d06445204082d5:496619762</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Format a catalog phone varaible">b242e5311bdccd10c024a601604bcb44</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-08 23:37:35</sys_created_on>
+        <sys_db_object display_value="" name="catalog_script_client">catalog_script_client</sys_db_object>
+        <sys_id>361274c80add4ee49ea6ec8966919910</sys_id>
+        <sys_metadata>49a751391b9ccd10c024a601604bcbc0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Format a catalog phone varaible</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_scope_delete display_value="">44c2fd98fe9d454293dcf256de782d64</sys_scope_delete>
+        <sys_update_name>catalog_script_client_49a751391b9ccd10c024a601604bcbc0</sys_update_name>
+        <sys_update_version display_value="catalog_script_client_49a751391b9ccd10c024a601604bcbc0">eeb061fd1b9ccd10c024a601604bcbfd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-08 23:37:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

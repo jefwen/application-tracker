@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value=" Classic Car Parts">d8f45c611bdc8d10c024a601604bcba4</catalog_item>
+        <catalog_variable>IO:86b0fd3d1bdccd10c024a601604bcb9c</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-09 00:52:25</sys_created_on>
+        <sys_id>5f53b9fd1bdccd10c024a601604bcb22</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>u_sprark_plug_brand</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_5f53b9fd1bdccd10c024a601604bcb22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-09 00:54:29</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show/hide spark plug brands field">d423b5fd1bdccd10c024a601604bcb62</ui_policy>
+        <variable>u_sprark_plug_brand</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
