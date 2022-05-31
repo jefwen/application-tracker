@@ -42,7 +42,7 @@
         <update_guid_history>c4df28ddb5c08110a33c1f7d525a0f52:412272799</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_classic_car_classic_car_parts.x_snc_classic_car.classic_car_parts_user">b34999111b848110c024a601604bcb6d</sys_audit_delete>
+        <sys_audit_delete display_value="">b34999111b848110c024a601604bcb6d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-24 23:25:40</sys_created_on>

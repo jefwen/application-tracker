@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer> Classic Car Restoration</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name> Classic Car Restoration</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">f58563f71b323010365c0fa7624bcbec</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 18:25:14</sys_created_on>
+        <sys_id>f36fd4711b774d10d20a2f40604bcbf9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Classic Car Restoration</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_update_name>sys_wizard_answer_f36fd4711b774d10d20a2f40604bcbf9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 18:25:14</sys_updated_on>
+        <table/>
+        <target_url>x_snc_classic_car_classic_car_restoration.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

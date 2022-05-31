@@ -42,7 +42,7 @@
         <update_guid_history>141953e71dbb3810aba7e3f3d4751d8e:-1338484579</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_classic_car_vehicles.x_snc_classic_car.vehicles_user">b7591be71bbb381049d9dbd8b04bcb44</sys_audit_delete>
+        <sys_audit_delete display_value="">b7591be71bbb381049d9dbd8b04bcb44</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jeffery.wentworth@snc</sys_created_by>
         <sys_created_on>2021-11-19 22:15:50</sys_created_on>

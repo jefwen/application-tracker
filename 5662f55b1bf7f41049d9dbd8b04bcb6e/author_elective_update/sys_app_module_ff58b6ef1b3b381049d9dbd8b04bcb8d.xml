@@ -66,7 +66,7 @@
         <update_guid_history>3b58b6ef103b3810383fa7ed941dc68f:543514540</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Makes">df0972231b7b381049d9dbd8b04bcb28</sys_audit_delete>
+        <sys_audit_delete display_value="">df0972231b7b381049d9dbd8b04bcb28</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jeffery.wentworth@snc</sys_created_by>
         <sys_created_on>2021-11-19 19:54:37</sys_created_on>

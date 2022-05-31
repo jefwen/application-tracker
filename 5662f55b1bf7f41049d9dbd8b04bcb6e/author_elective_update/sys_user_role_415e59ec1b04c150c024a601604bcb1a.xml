@@ -50,7 +50,7 @@
         <update_guid_history>da6e99ec6d04c1506bf5a6551f605b6a:-894175006</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_classic_car.resotoration_engineer">beb639641b84c150c024a601604bcbd8</sys_audit_delete>
+        <sys_audit_delete display_value="">beb639641b84c150c024a601604bcbd8</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-22 17:38:46</sys_created_on>

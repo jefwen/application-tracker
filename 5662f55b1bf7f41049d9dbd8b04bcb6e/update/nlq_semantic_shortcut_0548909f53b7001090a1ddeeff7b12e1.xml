@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="nlq_semantic_shortcut">
     <nlq_semantic_shortcut action="INSERT_OR_UPDATE">
-        <filter table="sn_customerservice_case">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
-        </filter>
+        <filter table="sn_customerservice_case">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe</filter>
         <language/>
         <synonyms>my</synonyms>
         <sys_class_name>nlq_semantic_shortcut</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-01 01:00:37</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>0548909f53b7001090a1ddeeff7b12e1</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name/>

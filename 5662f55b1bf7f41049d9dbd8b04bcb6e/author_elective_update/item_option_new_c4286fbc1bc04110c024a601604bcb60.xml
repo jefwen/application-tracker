@@ -156,7 +156,7 @@
         <update_guid_history>4c286fbc3fc0411050bdcd753b0efe66:1219077725</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="What is the vehicle owner's last name?">c748e3fc1bc04110c024a601604bcb88</sys_audit_delete>
+        <sys_audit_delete display_value="">c748e3fc1bc04110c024a601604bcb88</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jeffery.wentworth@snc</sys_created_by>
         <sys_created_on>2021-11-23 20:33:25</sys_created_on>

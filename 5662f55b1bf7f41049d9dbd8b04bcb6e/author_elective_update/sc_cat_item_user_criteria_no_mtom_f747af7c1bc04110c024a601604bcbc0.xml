@@ -29,19 +29,19 @@
         <source>0d520a201b000110c024a601604bcba1</source>
         <source_table>sys_upgrade_history</source_table>
         <state>previous</state>
-        <sys_created_by/>
+        <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-22 18:29:27</sys_created_on>
         <sys_id>1ec72bbc1bc04110c024a601604bcb2a</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>17d48e8f7580000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 18:26:18</sys_updated_on>
         <type>Catalog Item Not Available for</type>
         <update_guid>dac72bbc89c04110905b7fd56bc9442a</update_guid>
         <update_guid_history>dac72bbc89c04110905b7fd56bc9442a:1496774617</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Classic Car Restoration.SNC External">1ec72bbc1bc04110c024a601604bcb2c</sys_audit_delete>
+        <sys_audit_delete display_value="">1ec72bbc1bc04110c024a601604bcb2c</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jeffery.wentworth@snc</sys_created_by>
         <sys_created_on>2021-11-23 20:31:12</sys_created_on>
