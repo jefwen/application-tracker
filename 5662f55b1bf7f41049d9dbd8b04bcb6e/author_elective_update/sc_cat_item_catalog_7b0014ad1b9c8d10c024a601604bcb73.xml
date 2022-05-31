@@ -41,7 +41,7 @@
         <update_guid_history>3f0014adad9c8d10b4e37260cca70975:434095023</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Classic Car Parts">9dd010ed1b9c8d10c024a601604bcb55</sys_audit_delete>
+        <sys_audit_delete display_value="">9dd010ed1b9c8d10c024a601604bcb55</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-07 23:03:12</sys_created_on>

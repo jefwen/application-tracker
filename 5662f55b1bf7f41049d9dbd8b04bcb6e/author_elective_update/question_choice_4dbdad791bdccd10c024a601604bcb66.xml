@@ -46,7 +46,7 @@
         <update_guid_history>89bdad79d4dccd109e23d0af94622068:562025649</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="5 speed manual">7a4e2db91bdccd10c024a601604bcb03</sys_audit_delete>
+        <sys_audit_delete display_value="">7a4e2db91bdccd10c024a601604bcb03</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-09 00:30:01</sys_created_on>

@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-24 22:28:11</sys_created_on>
-        <sys_id>f92c85551b448110c024a601604bcbf8</sys_id>
+        <sys_id>b07bc9b947b38510c17b5685d36d4370</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>New True/False</sys_name>
         <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_classic_car_classic_car_parts_u_boolean_10</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-11-24 22:28:11</sys_updated_on>
+        <sys_updated_on>2022-05-31 21:42:03</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

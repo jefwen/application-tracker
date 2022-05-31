@@ -50,7 +50,7 @@
         <update_guid_history>aa4e59ecb404c1509ff180c2485a5915:-360162545,82ed15eced04c15088a1121cf503bf2f:2047146224</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_classic_car.office_executives">33a6b1641b84c150c024a601604bcb81</sys_audit_delete>
+        <sys_audit_delete display_value="">33a6b1641b84c150c024a601604bcb81</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-22 17:38:34</sys_created_on>

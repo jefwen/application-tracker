@@ -99,7 +99,7 @@
         <update_guid_history>2ab061fddd9ccd1046d94619774cedfd:2033249123,1990edbd009ccd102b6a1eda9f070ce4:-1198913130,bf0b99b95e9ccd10e5b437a99c5261d3:-634412383,93cad179ea9ccd10f8ee7a08d68755a9:1638590429,1caa9d79909ccd10a6d06445204082d5:496619762</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Format a catalog phone varaible">b242e5311bdccd10c024a601604bcb44</sys_audit_delete>
+        <sys_audit_delete display_value="">b242e5311bdccd10c024a601604bcb44</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-08 23:37:35</sys_created_on>

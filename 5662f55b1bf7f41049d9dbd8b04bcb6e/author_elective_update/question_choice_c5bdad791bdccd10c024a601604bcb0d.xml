@@ -46,7 +46,7 @@
         <update_guid_history>05bdad79fadccd10ab17f61900a2910f:206732305</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Land Rover">8a4ea9b91bdccd10c024a601604bcbdb</sys_audit_delete>
+        <sys_audit_delete display_value="">8a4ea9b91bdccd10c024a601604bcbdb</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-09 00:29:58</sys_created_on>

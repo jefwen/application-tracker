@@ -46,7 +46,7 @@
         <update_guid_history>b0bd6d790fdccd10db4c6b40a060fffc:252093527</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Jeep">4e4ea9b91bdccd10c024a601604bcb82</sys_audit_delete>
+        <sys_audit_delete display_value="">4e4ea9b91bdccd10c024a601604bcb82</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-09 00:29:57</sys_created_on>

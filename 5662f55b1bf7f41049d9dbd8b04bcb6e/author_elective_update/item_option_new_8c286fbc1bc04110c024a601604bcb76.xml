@@ -156,7 +156,7 @@
         <update_guid_history>04286fbc0dc04110bdd653b4efbada7d:-2041257897</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="What make is the vehicle?">f248e3fc1bc04110c024a601604bcb5d</sys_audit_delete>
+        <sys_audit_delete display_value="">f248e3fc1bc04110c024a601604bcb5d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jeffery.wentworth@snc</sys_created_by>
         <sys_created_on>2021-11-23 20:33:25</sys_created_on>

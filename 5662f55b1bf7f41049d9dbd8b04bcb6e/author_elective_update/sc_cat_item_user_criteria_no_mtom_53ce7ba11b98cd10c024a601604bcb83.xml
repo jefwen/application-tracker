@@ -29,19 +29,19 @@
         <source>0d520a201b000110c024a601604bcba1</source>
         <source_table>sys_upgrade_history</source_table>
         <state>previous</state>
-        <sys_created_by/>
+        <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-22 18:29:27</sys_created_on>
         <sys_id>9f1f77e11b98cd10c024a601604bcbb5</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>17d48e8f7580000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 21:45:48</sys_updated_on>
         <type>Catalog Item Not Available for</type>
         <update_guid>5f1f77e18598cd10c43fa61757feb3b5</update_guid>
         <update_guid_history>5f1f77e18598cd10c43fa61757feb3b5:-2096677531</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Classic Car Parts.SNC External">5f1f77e11b98cd10c024a601604bcbb7</sys_audit_delete>
+        <sys_audit_delete display_value="">5f1f77e11b98cd10c024a601604bcbb7</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-08 16:24:16</sys_created_on>

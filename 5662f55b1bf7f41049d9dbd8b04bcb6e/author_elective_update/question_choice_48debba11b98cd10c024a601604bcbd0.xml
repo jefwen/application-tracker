@@ -46,7 +46,7 @@
         <update_guid_history>84debba13b98cd106787a303eca036d2:1297827569</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="3 speed automatic">2d1fb3e11b98cd10c024a601604bcb74</sys_audit_delete>
+        <sys_audit_delete display_value="">2d1fb3e11b98cd10c024a601604bcb74</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-08 16:24:08</sys_created_on>

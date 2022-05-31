@@ -4,7 +4,6 @@
         <can_delegate>true</can_delegate>
         <description>User who has standard user to the Classic Car Restoration application.</description>
         <elevated_privilege>false</elevated_privilege>
-        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_classic_car.user</name>

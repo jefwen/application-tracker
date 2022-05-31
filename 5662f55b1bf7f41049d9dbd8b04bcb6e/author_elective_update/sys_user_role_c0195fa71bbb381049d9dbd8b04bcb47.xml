@@ -50,7 +50,7 @@
         <update_guid_history>e68dfde85b84c150d8af88cc5cc5464a:1853613511,a7d7f9a49484c150f0a623699ea125a6:-141607359,44195fa7efbb38106c9a5de7d62b2a4d:-2051242684</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_classic_car.vehicle_owner">a255ce681b000110c024a601604bcbbf</sys_audit_delete>
+        <sys_audit_delete display_value="">a255ce681b000110c024a601604bcbbf</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-22 18:42:39</sys_created_on>

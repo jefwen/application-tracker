@@ -46,7 +46,7 @@
         <update_guid_history>8c286fbc93c041108801f05b8c94ae80:899265548</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Fiat">e648e3fc1bc04110c024a601604bcb28</sys_audit_delete>
+        <sys_audit_delete display_value="">e648e3fc1bc04110c024a601604bcb28</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jeffery.wentworth@snc</sys_created_by>
         <sys_created_on>2021-11-23 20:33:24</sys_created_on>

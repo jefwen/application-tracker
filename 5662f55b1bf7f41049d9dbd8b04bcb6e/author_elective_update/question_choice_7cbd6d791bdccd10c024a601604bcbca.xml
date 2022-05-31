@@ -46,7 +46,7 @@
         <update_guid_history>b8bd6d7991dccd1016b00a23738539cc:-1188494641</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Pontiac">4a4ea9b91bdccd10c024a601604bcb8e</sys_audit_delete>
+        <sys_audit_delete display_value="">4a4ea9b91bdccd10c024a601604bcb8e</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-09 00:29:57</sys_created_on>

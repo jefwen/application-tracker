@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="nlq_semantic_shortcut">
     <nlq_semantic_shortcut action="INSERT_OR_UPDATE">
-        <filter table="sn_customerservice_case">priority=1<item display_value="1 - Critical" endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="1"/>
-        </filter>
+        <filter table="sn_customerservice_case">priority=1</filter>
         <language/>
         <synonyms>p1,p1s,p1's</synonyms>
         <sys_class_name>nlq_semantic_shortcut</sys_class_name>

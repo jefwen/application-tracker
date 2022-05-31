@@ -46,7 +46,7 @@
         <update_guid_history>edbded7967dccd10e31ba685bae1b511:-1471966049</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="8 cylinder diesal">ed4e69b91bdccd10c024a601604bcbb1</sys_audit_delete>
+        <sys_audit_delete display_value="">ed4e69b91bdccd10c024a601604bcbb1</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-09 00:29:55</sys_created_on>

@@ -113,7 +113,6 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>icon</file_name>
         <hash>be6aca7c7a49e8c589c0594a95600ff56e3d452de64b57513d6171527b348df3</hash>
         <image_height>81</image_height>
@@ -153,7 +152,6 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>picture</file_name>
         <hash>9f748ada38242f0cc2b5ed57a287f39e99ea91137f49385b7037785a262ad462</hash>
         <image_height>76</image_height>

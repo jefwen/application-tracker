@@ -99,7 +99,7 @@
         <update_guid_history>c91e9f74b0c041104cc116796f34b16a:1239535418,a7cd53b4e5c04110853b069b7ba38ab6:-75100963,c3cddb34cac04110738116546eed3d0c:-1172415946,1f9ddf7481c0411053fb5ea64cca69a4:-1050221141</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Classic Car Restoration">029011b11b9ccd10c024a601604bcb95</sys_audit_delete>
+        <sys_audit_delete display_value="">029011b11b9ccd10c024a601604bcb95</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-08 22:20:15</sys_created_on>

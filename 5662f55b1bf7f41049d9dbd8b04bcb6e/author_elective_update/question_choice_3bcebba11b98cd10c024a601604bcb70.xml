@@ -46,7 +46,7 @@
         <update_guid_history>77cebba1ec98cd10ae726ef054f02272:1736927204</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Lotus">de1ff3e11b98cd10c024a601604bcbc7</sys_audit_delete>
+        <sys_audit_delete display_value="">de1ff3e11b98cd10c024a601604bcbc7</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-08 16:24:11</sys_created_on>

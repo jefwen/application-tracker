@@ -209,7 +209,7 @@
         <update_guid_history>2be090ed8a9c8d10b2dbdf9e9b463885:92443277,45cdc42dbe9c8d1069f067e80ae65748:-721020026,4dcd842d969c8d102b6c7a0adde38df0:1431319373,caad442dc69c8d10eb5947a264df1b0b:-2094560291</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Classic Car Parts">73e090ed1b9c8d10c024a601604bcba0</sys_audit_delete>
+        <sys_audit_delete display_value="">73e090ed1b9c8d10c024a601604bcba0</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-07 23:03:38</sys_created_on>
@@ -219,7 +219,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Classic Car Parts</sys_name>
         <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
-        <sys_parent display_value="Classic Car Parts">620855dd1b448110c024a601604bcb8f</sys_parent>
+        <sys_parent display_value="">620855dd1b448110c024a601604bcb8f</sys_parent>
         <sys_policy/>
         <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
         <sys_scope_delete display_value="">44c2fd98fe9d454293dcf256de782d64</sys_scope_delete>
