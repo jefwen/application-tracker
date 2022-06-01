@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_snc_classic_car_classic_car_restoration" label="Classic Car Parts" max_length="40" name="x_snc_classic_car_classic_car_parts" sizeclass="8" type="collection">
+    <element extends="x_snc_classic_car_classic_car_restoration" label="Classic Car Parts" max_length="40" name="x_snc_classic_car_classic_car_parts" sizeclass="0" type="collection">
         <element label="New True/False" max_length="40" name="u_boolean_10" type="boolean"/>
         <element label="New True/False" max_length="40" name="u_boolean_11" type="boolean"/>
         <element label="New True/False" max_length="40" name="u_boolean_12" type="boolean"/>
@@ -25,21 +25,9 @@
                 <element inactive_on_update="false" label="8 cylinder diesal" sequence="7" value="8 cylinder diesal"/>
             </choice>
         </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Locations Where Oil Can Be Ordered" max_length="1024" name="u_glide_list_1" type="glide_list"/>
+        <element attributes="encode_utf8=false" label="Vehicle Type" max_length="32" name="u_reference_2" reference="x_snc_classic_car_classic_car_restoration" type="reference"/>
         <element label="Spark plugs" max_length="40" name="u_spark_plugs" type="boolean"/>
         <element label="Spark plug wires" max_length="40" name="u_spark_plug_wires" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Transmission type" max_length="40" name="u_transmission_type" type="string">
-            <choice>
-                <element inactive_on_update="false" label="3 speed manual" sequence="0" value="3 speed manual"/>
-                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
-                <element inactive_on_update="false" label="4 speed manual" sequence="1" value="4 speed manual"/>
-                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
-                <element inactive_on_update="false" label="5 speed manual" sequence="2" value="5 speed manual"/>
-                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
-                <element inactive_on_update="false" label="3 speed automatic" sequence="3" value="3 speed automatic"/>
-                <element inactive_on_update="false" label="4 speed atumatic" sequence="4" value="4 speed atumatic"/>
-                <element inactive_on_update="false" label="5 speed automatic" sequence="5" value="5 speed automatic"/>
-            </choice>
-        </element>
-        <element attributes="edge_encryption_enabled=true" label="VIN number" mandatory="true" max_length="40" name="u_vin_number" type="string"/>
     </element>
 </database>
