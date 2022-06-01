@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value=" Classic Car Parts">d8f45c611bdc8d10c024a601604bcba4</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-07 23:21:09</sys_created_on>
+        <sys_id>94f45c611bdc8d10c024a601604bcba8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Classic Car Parts</sys_name>
+        <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_94f45c611bdc8d10c024a601604bcba8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-07 23:21:09</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

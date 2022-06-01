@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="682fb5271bb3381049d9dbd8b04bcbe3" sys_domain="global" table="x_snc_classic_car_classic_car_restoration" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-19 15:41:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c2fb5271bb3381049d9dbd8b04bcbe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_classic_car_classic_car_restoration" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">682fb5271bb3381049d9dbd8b04bcbe3</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">dc159edf1b3bf41049d9dbd8b04bcbf2</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-19 15:41:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-19 16:11:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5f5426b1bb3381049d9dbd8b04bcb2a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_classic_car_classic_car_restoration" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">682fb5271bb3381049d9dbd8b04bcbe3</sys_ui_form>
+            <sys_ui_section caption="Customer Information" display_value="Customer Information" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">edf5426b1bb3381049d9dbd8b04bcb26</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-19 16:11:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-19 15:41:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c2fb5271bb3381049d9dbd8b04bcbe7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_classic_car_classic_car_restoration" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">682fb5271bb3381049d9dbd8b04bcbe3</sys_ui_form>
+            <sys_ui_section caption="Vehicle Description" display_value="Vehicle Description" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">242fb5271bb3381049d9dbd8b04bcbdf</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-19 16:11:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-19 15:41:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a42fb5271bb3381049d9dbd8b04bcbf8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_classic_car_classic_car_restoration" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">682fb5271bb3381049d9dbd8b04bcbe3</sys_ui_form>
+            <sys_ui_section caption="Description of Work" display_value="Description of Work" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">e02fb5271bb3381049d9dbd8b04bcbe2</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-19 16:11:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_classic_car_classic_car_restoration</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-19 15:41:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>682fb5271bb3381049d9dbd8b04bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_classic_car_classic_car_restoration</sys_name>
+            <sys_overrides/>
+            <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_682fb5271bb3381049d9dbd8b04bcbe3</sys_update_name>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-19 15:41:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

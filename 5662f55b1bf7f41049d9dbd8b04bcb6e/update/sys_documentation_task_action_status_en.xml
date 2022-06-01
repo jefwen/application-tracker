@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="action_status" label="Action status" language="en" table="task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>action_status</element>
+            <help/>
+            <hint/>
+            <label>Action status</label>
+            <language>en</language>
+            <name>task</name>
+            <plural>Action status</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-19 18:01:31</sys_created_on>
+            <sys_id>622f9ae31bf7381049d9dbd8b04bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Action status</sys_name>
+            <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+            <sys_update_name>sys_documentation_task_action_status_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-19 18:01:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="dc159edf1b3bf41049d9dbd8b04bcbf2" sys_domain="global" table="x_snc_classic_car_classic_car_restoration" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-23 21:27:44</sys_created_on>
+            <sys_id>26b4fbb81b044110c024a601604bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">dc159edf1b3bf41049d9dbd8b04bcbf2</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-23 21:27:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>1</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-23 21:27:44</sys_created_on>
+            <sys_id>aab4fbb81b044110c024a601604bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">dc159edf1b3bf41049d9dbd8b04bcbf2</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-23 21:27:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_todays_date</element>
+            <position>2</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-23 21:27:44</sys_created_on>
+            <sys_id>22b4fbb81b044110c024a601604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">dc159edf1b3bf41049d9dbd8b04bcbf2</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-23 21:27:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-23 21:27:44</sys_created_on>
+            <sys_id>a6b4fbb81b044110c024a601604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">dc159edf1b3bf41049d9dbd8b04bcbf2</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-23 21:27:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-23 21:27:44</sys_created_on>
+            <sys_id>2eb4fbb81b044110c024a601604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">dc159edf1b3bf41049d9dbd8b04bcbf2</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-23 21:27:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>5</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-23 21:27:44</sys_created_on>
+            <sys_id>a2b4fbb81b044110c024a601604bcb67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">dc159edf1b3bf41049d9dbd8b04bcbf2</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-23 21:27:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-23 21:27:44</sys_created_on>
+            <sys_id>2ab4fbb81b044110c024a601604bcb67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">dc159edf1b3bf41049d9dbd8b04bcbf2</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-23 21:27:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>7</position>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-23 21:27:44</sys_created_on>
+            <sys_id>aeb4fbb81b044110c024a601604bcb67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_classic_car_classic_car_restoration" sys_domain="global" view="Default view">dc159edf1b3bf41049d9dbd8b04bcbf2</sys_ui_section>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-23 21:27:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_classic_car_classic_car_restoration</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jeffery.wentworth@snc</sys_created_by>
+            <sys_created_on>2021-11-18 22:38:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc159edf1b3bf41049d9dbd8b04bcbf2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_classic_car_classic_car_restoration</sys_name>
+            <sys_overrides/>
+            <sys_package display_value=" Classic Car Restoration" source="x_snc_classic_car">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value=" Classic Car Restoration">5662f55b1bf7f41049d9dbd8b04bcb6e</sys_scope>
+            <sys_update_name>sys_ui_section_dc159edf1b3bf41049d9dbd8b04bcbf2</sys_update_name>
+            <sys_updated_by>jeffery.wentworth@snc</sys_updated_by>
+            <sys_updated_on>2021-11-18 22:38:54</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

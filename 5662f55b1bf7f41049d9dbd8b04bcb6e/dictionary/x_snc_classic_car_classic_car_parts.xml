@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_snc_classic_car_classic_car_restoration" label="Classic Car Parts" max_length="40" name="x_snc_classic_car_classic_car_parts" sizeclass="8" type="collection">
+        <element label="New True/False" max_length="40" name="u_boolean_10" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_11" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_12" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_7" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_8" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_9" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Engine size" max_length="40" name="u_engine_size" type="string">
+            <choice>
+                <element inactive_on_update="false" label="3 cylinder" sequence="0" value="3 cylinder"/>
+                <element inactive_on_update="false" label="4 cylinder" sequence="1" value="4 cylinder"/>
+                <element inactive_on_update="false" label="5 cylinder" sequence="2" value="5 cylinder"/>
+                <element inactive_on_update="false" label="6 cylinder" sequence="3" value="6 cylinder"/>
+                <element inactive_on_update="false" label="8 cylinder" sequence="4" value="8 cylinder"/>
+                <element inactive_on_update="false" label="4 cylinder diesel" sequence="5" value="4 cylinder diesel"/>
+                <element inactive_on_update="false" label="6 cylinder diesel" sequence="6" value="6 cylinder diesel"/>
+                <element inactive_on_update="false" label="8 cylinder diesal" sequence="7" value="8 cylinder diesal"/>
+            </choice>
+        </element>
+        <element label="Spark plugs" max_length="40" name="u_spark_plugs" type="boolean"/>
+        <element label="Spark plug wires" max_length="40" name="u_spark_plug_wires" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Transmission type" max_length="40" name="u_transmission_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="3 speed manual" sequence="0" value="3 speed manual"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="4 speed manual" sequence="1" value="4 speed manual"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="5 speed manual" sequence="2" value="5 speed manual"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="3 speed automatic" sequence="3" value="3 speed automatic"/>
+                <element inactive_on_update="false" label="4 speed atumatic" sequence="4" value="4 speed atumatic"/>
+                <element inactive_on_update="false" label="5 speed automatic" sequence="5" value="5 speed automatic"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="VIN number" mandatory="true" max_length="40" name="u_vin_number" type="string"/>
+    </element>
+</database>
